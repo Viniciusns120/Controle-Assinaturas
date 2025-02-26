@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"name": "Cursos Startweb",
+			"path": "../Cursos Startweb"
+		},
+		{
+			"name": "Curso Python",
+			"path": "../Curso Python"
+		},
+		{
+			"name": "Curso Alura",
+			"path": "../Curso Alura"
+		},
+		{
+			"name": "Faculdade",
+			"path": "../Faculdade"
+		},
+		{
+			"name": "Pythonando",
+			"path": "."
+		},
+		{
+			"name": "Pythonando3",
+			"path": "../Pythonando3"
+		},
+		{
+			"name": "Pythonando 4",
+			"path": "../Pythonando 4"
+		},
+		{
+			"name": "Pythonando 5",
+			"path": "../Pythonando 5"
+		},
+		{
+			"name": "Curso Pythonando",
+			"path": "../Curso Pythonando"
+		},
+		{
+			"path": "../ONGQueiraBem"
+		},
+		{
+			"path": "../Diary Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Curso Alura"
+	}
+}
