@@ -1,7 +1,6 @@
 # Controle-Assinaturas
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Issues](https://img.shields.io/github/issues/Viniciusns120/Controle-Assinaturas)
 ![Stars](https://img.shields.io/github/stars/Viniciusns120/Controle-Assinaturas)
 
@@ -44,4 +43,4 @@ Contributions are welcome! Please create a pull request with a detailed descript
 
 ## Contributors
 
-![Viniciusns120](https://github.com/Viniciusns120)
+[Viniciusns120](https://github.com/Viniciusns120)
